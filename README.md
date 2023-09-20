@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my project NovaHQ<br>👯 I’m looking to collaborate on fullstack and web 3 projects <br>🤝 I’m looking forward to collaborating with a frontend dev<br>🌱 I’m currently learning backend and API development with nodejs<br>
+🔭 Hi, I'm a techie with a difference looking to change the world, one line of code at a time
 
 
 ## 🌐 Socials:
