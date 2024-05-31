@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi, I'm a techie with a difference looking to change the world, one line of code at a time
+Integrating technology with human connection, and building secure and user-friendly solutions.
 
 
 ## 🌐 Socials:
