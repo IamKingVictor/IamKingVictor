@@ -1,5 +1,5 @@
 # 💫 About Me:
-Integrating technology with human connection, and building secure and user-friendly solutions.
+Intersecting technology with human connection, and building secure and user-friendly solutions.
 
 
 ## 🌐 Socials:
